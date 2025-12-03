@@ -4,7 +4,7 @@ go 1.25.4
 
 require (
 	github.com/go-ole/go-ole v1.3.0
-	github.com/shirou/gopsutil/v4 v4.25.10
+	github.com/shirou/gopsutil/v4 v4.25.11
 )
 
 require (
