@@ -4,8 +4,9 @@ import (
 	"fmt"
 	"strings"
 	"syscall"
-	"sysinfo/wmi"
 	"unsafe"
+
+	"github.com/ranulldd/sysinfo/wmi"
 )
 
 type diskInfoStruct struct {

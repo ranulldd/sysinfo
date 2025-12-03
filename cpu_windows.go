@@ -1,6 +1,6 @@
 package sysinfo
 
-import "sysinfo/wmi"
+import "github.com/ranulldd/sysinfo/wmi"
 
 // OpenHardwareMonitor needed
 

@@ -5,7 +5,8 @@ import (
 	"strconv"
 	"strings"
 	"syscall"
-	"sysinfo/wmi"
+
+	"github.com/ranulldd/sysinfo/wmi"
 )
 
 // OpenHardwareMonitor needed
