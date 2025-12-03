@@ -1,4 +1,4 @@
-module sysinfo
+module github.com/ranulldd/sysinfo
 
 go 1.25.4
 
